@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "NodeNext",
+    "lib": ["ES2016", "DOM"],
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "NodeNext",
+     "resolveJsonModule": true // 允许导入 JSON
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
