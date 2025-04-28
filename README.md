@@ -1,6 +1,6 @@
 # DeepSeek AI 流式聊天后端代理
 
-**tips:**请先在.env里面配置自己的deepseek api，具体如何申请对应api可以看文档:https://platform.deepseek.com/
+Tips:请先在.env里面配置自己的deepseek api，具体如何申请对应api可以看文档:https://platform.deepseek.com/
 
 ```js
    //.env
